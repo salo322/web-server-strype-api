@@ -1,1 +1,1 @@
-# web-server-strype-api
+# web-server-stripe-api
